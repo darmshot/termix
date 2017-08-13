@@ -1,3 +1,3 @@
 echo hello world;
-cd ../../../../../../
+cd ../../../../../../;
 echo end redirect;
