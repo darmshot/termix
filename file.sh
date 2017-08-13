@@ -1,2 +1,4 @@
-cd .~/sdcard/htdocs/tuba
+
+cd /../../../../../;
+cd /sdcard/htdocs/tuba;
 ls
